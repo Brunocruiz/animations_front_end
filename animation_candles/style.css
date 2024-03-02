@@ -158,7 +158,6 @@ body {
     display: inline-block;
     border: 0px solid #673C63;
     border-radius: 100%;
-    float: left;
     background: #673C63;
     transform: translate(-80%, 0%);
     animation: changeto-lower 3s infinite linear;
@@ -173,7 +172,6 @@ body {
     display: inline-block;
     border: 0px solid #673C63;
     border-radius: 100%;
-    float: left;
     background: #673C63;
     transform: translate(-80%, 0%);
     animation: changeto-greater 3s infinite linear;
